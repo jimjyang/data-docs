@@ -12,7 +12,7 @@ Merknad:: (ingen)
 [properties]
 URI til definisjon:: dct:identifier
 SKOS (RDF turtle)-representasjon:: <> dct:identifier “identifikator”
-Datatype (med ev. URI til definisjon):: rdf:Literal
+Datatype (med ev. URI til definisjon):: URI
 Merknad:: (ingen)
 
 === Begrep.ansvarligVirksomhet
